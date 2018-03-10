@@ -1,5 +1,5 @@
 {
-    "cmd": ["/usr/local/bin/python3.5", "-u", "$file"],
+    "cmd": ["C:/Python36/python.exe", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "quiet": true
 }
